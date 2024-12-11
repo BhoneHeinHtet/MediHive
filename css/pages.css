@@ -297,7 +297,7 @@ body{
   position: absolute;
   width: 100%;
   height: 100%;
-  background-image: url('../Image3/dietbanner.jpg');
+  background-image: url('../image3/dietbanner.jpg');
   background-size: cover;
   background-position: center;
   filter: blur(5px);
